@@ -1,7 +1,8 @@
-//
+﻿//
 // Game.cpp
 //
 
+//テスト
 #include "pch.h"
 #include "Game.h"
 
